@@ -8,7 +8,7 @@ window.onload = function(){
         console.log(window);
         var opt = {
             filename : 'myTrainTicket.pdf',
-        };
+        }; 
         html2pdf().from(ticket).set(opt).save();
     })
 }
