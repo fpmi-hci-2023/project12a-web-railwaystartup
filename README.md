@@ -15,4 +15,4 @@ System Features:
 * User feedbacks
 * Contacts
 * User profile
-* An admin panel to manage the system
+* An admin panel to manage the system 
