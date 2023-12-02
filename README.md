@@ -11,7 +11,7 @@ System Features:
 * Get booking history with booking details
 * Get train ticket and print as pdf
 * Cancel booking
-* Verifying ticket
+* Verifying ticket 
 * User feedbacks
 * Contacts 
 * User profile
