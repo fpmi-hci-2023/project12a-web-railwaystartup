@@ -5,7 +5,7 @@ System Features:
 * User registration
 * Same login panel for both user and admin
 * Finding train
-* View available train
+* View available train 
 * Book train
 * Make payment
 * Get booking history with booking details
