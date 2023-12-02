@@ -15,9 +15,7 @@ System Features:
 * User feedbacks
 * Contacts 
 * User profile
-<<<<<<< HEAD
-* An admin panel to manage the system 
-=======
+
 * An admin panel to manage the system
 
 # Run the project using Docker
@@ -25,4 +23,4 @@ System Features:
 2. docker build -t app .
 3. docker run -d -p 8000:8000 app
 4. Open your web browser and visit http://localhost:8000
->>>>>>> 43e8479 (Update README.md)
+
