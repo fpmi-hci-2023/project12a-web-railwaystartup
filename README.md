@@ -16,3 +16,9 @@ System Features:
 * Contacts
 * User profile
 * An admin panel to manage the system
+
+# Run the project using Docker
+1. Navigate to the root directory of the project where the Dockerfile is located.
+2. docker build -t app .
+3. docker run -d -p 8000:8000 app
+4. Open your web browser and visit http://localhost:8000
