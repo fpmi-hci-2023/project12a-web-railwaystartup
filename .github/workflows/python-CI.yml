@@ -3,7 +3,7 @@ name: Python CI
 on:
   push:
     branches:
-      - dev
+      - main
   pull_request:
     branches:
       - main
@@ -28,4 +28,5 @@ jobs:
         python -m pip install pytest
 
     - name: Run tests
-      run: python -m pytest
+      run: |
+        python -m pytest --verbose --showlocals
